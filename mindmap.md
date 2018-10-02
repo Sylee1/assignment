@@ -51,6 +51,5 @@
       * "미래 사회에 기여할 수 있는 사람이 되자."
       * 성공해도 정치는 X
       
-      
-    ![mindmap](/Users/seungyun.lee/Documents/IMG_2991.JPG)
+    ![mindmap](https://user-images.githubusercontent.com/43788948/46363870-2c52cb00-c6af-11e8-92a1-31ec497719e4.JPG)
       
