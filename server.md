@@ -1,7 +1,7 @@
 # 서버
 
 ## 정의
-	클라이언트에게 네트워크를 통해 정보나 서비스를 제공하는 컴퓨터(server computer) 또는 프로그램(server program)을 말한다. 특히, 서버에서 동작하는 소프트웨어를 서버 소프트웨어(server software)라 한다.
+클라이언트에게 네트워크를 통해 정보나 서비스를 제공하는 컴퓨터(server computer) 또는 프로그램(server program)을 말한다. 특히, 서버에서 동작하는 소프트웨어를 서버 소프트웨어(server software)라 한다.
 
 *  아래의 조사는 소프트웨어로서의 서버를 다룬다.
 
