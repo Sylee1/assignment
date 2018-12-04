@@ -6,7 +6,7 @@
 *  아래의 조사는 소프트웨어로서의 서버를 다룬다.
 
 ## 구조
-	![default](https://user-images.githubusercontent.com/43788948/49422640-009bb080-f7d8-11e8-98e1-942399fb696d.jpg)
+![default](https://user-images.githubusercontent.com/43788948/49422640-009bb080-f7d8-11e8-98e1-942399fb696d.jpg)
 
 ## 웹서버
  
